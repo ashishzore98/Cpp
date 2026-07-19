@@ -19,6 +19,7 @@
 | [0238-product-of-array-except-self](https://github.com/ashishzore98/Cpp/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ashishzore98/Cpp/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/ashishzore98/Cpp/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [0217-contains-duplicate](https://github.com/ashishzore98/Cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashishzore98/Cpp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/ashishzore98/Cpp/tree/master/0881-boats-to-save-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,10 +93,12 @@
 | [0125-valid-palindrome](https://github.com/ashishzore98/Cpp/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishzore98/Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ashishzore98/Cpp/tree/master/0283-move-zeroes) |
+| [0881-boats-to-save-people](https://github.com/ashishzore98/Cpp/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashishzore98/Cpp/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/ashishzore98/Cpp/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
