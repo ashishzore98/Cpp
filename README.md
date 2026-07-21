@@ -20,6 +20,7 @@
 | [0238-product-of-array-except-self](https://github.com/ashishzore98/Cpp/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ashishzore98/Cpp/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/ashishzore98/Cpp/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/ashishzore98/Cpp/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
@@ -113,10 +114,12 @@
 | [0020-valid-parentheses](https://github.com/ashishzore98/Cpp/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ashishzore98/Cpp/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/ashishzore98/Cpp/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/ashishzore98/Cpp/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashishzore98/Cpp/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/ashishzore98/Cpp/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
