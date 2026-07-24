@@ -45,6 +45,7 @@
 | [0049-group-anagrams](https://github.com/ashishzore98/Cpp/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ashishzore98/Cpp/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ashishzore98/Cpp/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/ashishzore98/Cpp/tree/master/0402-remove-k-digits) |
 ## Sorting
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ashishzore98/Cpp/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/ashishzore98/Cpp/tree/master/0402-remove-k-digits) |
 | [0881-boats-to-save-people](https://github.com/ashishzore98/Cpp/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
@@ -123,6 +125,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ashishzore98/Cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishzore98/Cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ashishzore98/Cpp/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/ashishzore98/Cpp/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/ashishzore98/Cpp/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ashishzore98/Cpp/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ashishzore98/Cpp/tree/master/0853-car-fleet) |
@@ -131,6 +134,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ashishzore98/Cpp/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashishzore98/Cpp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/ashishzore98/Cpp/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/ashishzore98/Cpp/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ashishzore98/Cpp/tree/master/0853-car-fleet) |
 ## Binary Search
