@@ -29,6 +29,7 @@
 | [0735-asteroid-collision](https://github.com/ashishzore98/Cpp/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ashishzore98/Cpp/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ashishzore98/Cpp/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/ashishzore98/Cpp/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/ashishzore98/Cpp/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
@@ -151,6 +152,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashishzore98/Cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishzore98/Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ashishzore98/Cpp/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/ashishzore98/Cpp/tree/master/0875-koko-eating-bananas) |
 ## Design
 |  |
 | ------- |
