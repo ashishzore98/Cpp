@@ -44,6 +44,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishzore98/Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/ashishzore98/Cpp/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ashishzore98/Cpp/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ashishzore98/Cpp/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ashishzore98/Cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ashishzore98/Cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashishzore98/Cpp/tree/master/0217-contains-duplicate) |
@@ -58,6 +59,7 @@
 | [0020-valid-parentheses](https://github.com/ashishzore98/Cpp/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ashishzore98/Cpp/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ashishzore98/Cpp/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ashishzore98/Cpp/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ashishzore98/Cpp/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ashishzore98/Cpp/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/ashishzore98/Cpp/tree/master/0402-remove-k-digits) |
@@ -193,4 +195,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishzore98/Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ashishzore98/Cpp/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
