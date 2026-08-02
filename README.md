@@ -50,6 +50,7 @@
 | [0217-contains-duplicate](https://github.com/ashishzore98/Cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashishzore98/Cpp/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/ashishzore98/Cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/ashishzore98/Cpp/tree/master/0496-next-greater-element-i) |
 | [0981-time-based-key-value-store](https://github.com/ashishzore98/Cpp/tree/master/0981-time-based-key-value-store) |
 ## String
@@ -63,6 +64,7 @@
 | [0125-valid-palindrome](https://github.com/ashishzore98/Cpp/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ashishzore98/Cpp/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/ashishzore98/Cpp/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/ashishzore98/Cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0981-time-based-key-value-store](https://github.com/ashishzore98/Cpp/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -196,4 +198,5 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishzore98/Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ashishzore98/Cpp/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/ashishzore98/Cpp/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
