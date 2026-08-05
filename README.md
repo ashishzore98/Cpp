@@ -25,6 +25,7 @@
 | [0162-find-peak-element](https://github.com/ashishzore98/Cpp/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishzore98/Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ashishzore98/Cpp/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/ashishzore98/Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ashishzore98/Cpp/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ashishzore98/Cpp/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ashishzore98/Cpp/tree/master/0239-sliding-window-maximum) |
@@ -111,6 +112,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ashishzore98/Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ashishzore98/Cpp/tree/master/0238-product-of-array-except-self) |
 ## Matrix
 |  |
@@ -179,6 +181,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashishzore98/Cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ashishzore98/Cpp/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishzore98/Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ashishzore98/Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/ashishzore98/Cpp/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/ashishzore98/Cpp/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/ashishzore98/Cpp/tree/master/0981-time-based-key-value-store) |
@@ -205,6 +208,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ashishzore98/Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ashishzore98/Cpp/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/ashishzore98/Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/ashishzore98/Cpp/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashishzore98/Cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ashishzore98/Cpp/tree/master/0567-permutation-in-string) |
