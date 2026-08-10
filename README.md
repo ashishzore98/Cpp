@@ -92,11 +92,13 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishzore98/Cpp/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/ashishzore98/Cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/ashishzore98/Cpp/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashishzore98/Cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/ashishzore98/Cpp/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
@@ -241,6 +243,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ashishzore98/Cpp/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ashishzore98/Cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ashishzore98/Cpp/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ashishzore98/Cpp/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ashishzore98/Cpp/tree/master/0206-reverse-linked-list) |
@@ -254,4 +257,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ashishzore98/Cpp/tree/master/0141-linked-list-cycle) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashishzore98/Cpp/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ashishzore98/Cpp/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
