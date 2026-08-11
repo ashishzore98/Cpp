@@ -136,6 +136,7 @@
 | [0011-container-with-most-water](https://github.com/ashishzore98/Cpp/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ashishzore98/Cpp/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/ashishzore98/Cpp/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ashishzore98/Cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ashishzore98/Cpp/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ashishzore98/Cpp/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ashishzore98/Cpp/tree/master/0075-sort-colors) |
@@ -242,6 +243,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ashishzore98/Cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ashishzore98/Cpp/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/ashishzore98/Cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ashishzore98/Cpp/tree/master/0141-linked-list-cycle) |
