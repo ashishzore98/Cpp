@@ -53,6 +53,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ashishzore98/Cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ashishzore98/Cpp/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ashishzore98/Cpp/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/ashishzore98/Cpp/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ashishzore98/Cpp/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ashishzore98/Cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashishzore98/Cpp/tree/master/0242-valid-anagram) |
@@ -203,6 +204,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ashishzore98/Cpp/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ashishzore98/Cpp/tree/master/0155-min-stack) |
 | [0981-time-based-key-value-store](https://github.com/ashishzore98/Cpp/tree/master/0981-time-based-key-value-store) |
 ## Backtracking
@@ -252,6 +254,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/ashishzore98/Cpp/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ashishzore98/Cpp/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ashishzore98/Cpp/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/ashishzore98/Cpp/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/ashishzore98/Cpp/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -272,4 +275,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ashishzore98/Cpp/tree/master/0023-merge-k-sorted-lists) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ashishzore98/Cpp/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
