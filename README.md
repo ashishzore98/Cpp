@@ -18,6 +18,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ashishzore98/Cpp/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ashishzore98/Cpp/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashishzore98/Cpp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashishzore98/Cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishzore98/Cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ashishzore98/Cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishzore98/Cpp/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -50,6 +51,7 @@
 | [0036-valid-sudoku](https://github.com/ashishzore98/Cpp/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ashishzore98/Cpp/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ashishzore98/Cpp/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashishzore98/Cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ashishzore98/Cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ashishzore98/Cpp/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ashishzore98/Cpp/tree/master/0141-linked-list-cycle) |
@@ -95,6 +97,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashishzore98/Cpp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ashishzore98/Cpp/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashishzore98/Cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/ashishzore98/Cpp/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -288,6 +291,7 @@
 | [0098-validate-binary-search-tree](https://github.com/ashishzore98/Cpp/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ashishzore98/Cpp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashishzore98/Cpp/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashishzore98/Cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashishzore98/Cpp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ashishzore98/Cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ashishzore98/Cpp/tree/master/0226-invert-binary-tree) |
@@ -306,6 +310,7 @@
 | [0098-validate-binary-search-tree](https://github.com/ashishzore98/Cpp/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ashishzore98/Cpp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashishzore98/Cpp/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashishzore98/Cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashishzore98/Cpp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ashishzore98/Cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/ashishzore98/Cpp/tree/master/0226-invert-binary-tree) |
