@@ -94,6 +94,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ashishzore98/Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ashishzore98/Cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashishzore98/Cpp/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/ashishzore98/Cpp/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ashishzore98/Cpp/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/ashishzore98/Cpp/tree/master/0853-car-fleet) |
@@ -115,6 +116,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/ashishzore98/Cpp/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashishzore98/Cpp/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ashishzore98/Cpp/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/ashishzore98/Cpp/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ashishzore98/Cpp/tree/master/0621-task-scheduler) |
 | [0973-k-closest-points-to-origin](https://github.com/ashishzore98/Cpp/tree/master/0973-k-closest-points-to-origin) |
@@ -165,6 +167,7 @@
 | [0143-reorder-list](https://github.com/ashishzore98/Cpp/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishzore98/Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ashishzore98/Cpp/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/ashishzore98/Cpp/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/ashishzore98/Cpp/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/ashishzore98/Cpp/tree/master/0881-boats-to-save-people) |
 ## Greedy
@@ -226,6 +229,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/ashishzore98/Cpp/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ashishzore98/Cpp/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/ashishzore98/Cpp/tree/master/0295-find-median-from-data-stream) |
 | [0981-time-based-key-value-store](https://github.com/ashishzore98/Cpp/tree/master/0981-time-based-key-value-store) |
 ## Backtracking
 |  |
@@ -369,4 +373,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ashishzore98/Cpp/tree/master/0973-k-closest-points-to-origin) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ashishzore98/Cpp/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
