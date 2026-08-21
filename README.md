@@ -46,6 +46,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/ashishzore98/Cpp/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashishzore98/Cpp/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ashishzore98/Cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1046-last-stone-weight](https://github.com/ashishzore98/Cpp/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [0621-task-scheduler](https://github.com/ashishzore98/Cpp/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ashishzore98/Cpp/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/ashishzore98/Cpp/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/ashishzore98/Cpp/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
