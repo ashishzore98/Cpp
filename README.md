@@ -33,6 +33,7 @@
 | [0239-sliding-window-maximum](https://github.com/ashishzore98/Cpp/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ashishzore98/Cpp/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
+| [0480-sliding-window-median](https://github.com/ashishzore98/Cpp/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/ashishzore98/Cpp/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/ashishzore98/Cpp/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/ashishzore98/Cpp/tree/master/0704-binary-search) |
@@ -66,6 +67,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/ashishzore98/Cpp/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashishzore98/Cpp/tree/master/0424-longest-repeating-character-replacement) |
+| [0480-sliding-window-median](https://github.com/ashishzore98/Cpp/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/ashishzore98/Cpp/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/ashishzore98/Cpp/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ashishzore98/Cpp/tree/master/0621-task-scheduler) |
@@ -124,6 +126,7 @@
 | [0295-find-median-from-data-stream](https://github.com/ashishzore98/Cpp/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/ashishzore98/Cpp/tree/master/0355-design-twitter) |
+| [0480-sliding-window-median](https://github.com/ashishzore98/Cpp/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/ashishzore98/Cpp/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ashishzore98/Cpp/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/ashishzore98/Cpp/tree/master/0767-reorganize-string) |
@@ -266,6 +269,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ashishzore98/Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/ashishzore98/Cpp/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashishzore98/Cpp/tree/master/0424-longest-repeating-character-replacement) |
+| [0480-sliding-window-median](https://github.com/ashishzore98/Cpp/tree/master/0480-sliding-window-median) |
 | [0567-permutation-in-string](https://github.com/ashishzore98/Cpp/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishzore98/Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/ashishzore98/Cpp/tree/master/0904-fruit-into-baskets) |
@@ -395,4 +399,8 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ashishzore98/Cpp/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ashishzore98/Cpp/tree/master/0703-kth-largest-element-in-a-stream) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/ashishzore98/Cpp/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
