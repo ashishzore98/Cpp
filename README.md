@@ -69,6 +69,7 @@
 | [0496-next-greater-element-i](https://github.com/ashishzore98/Cpp/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/ashishzore98/Cpp/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ashishzore98/Cpp/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/ashishzore98/Cpp/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/ashishzore98/Cpp/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/ashishzore98/Cpp/tree/master/0981-time-based-key-value-store) |
 ## String
@@ -84,6 +85,7 @@
 | [0402-remove-k-digits](https://github.com/ashishzore98/Cpp/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashishzore98/Cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ashishzore98/Cpp/tree/master/0567-permutation-in-string) |
+| [0767-reorganize-string](https://github.com/ashishzore98/Cpp/tree/master/0767-reorganize-string) |
 | [0981-time-based-key-value-store](https://github.com/ashishzore98/Cpp/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
@@ -99,6 +101,7 @@
 | [0295-find-median-from-data-stream](https://github.com/ashishzore98/Cpp/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ashishzore98/Cpp/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/ashishzore98/Cpp/tree/master/0767-reorganize-string) |
 | [0853-car-fleet](https://github.com/ashishzore98/Cpp/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/ashishzore98/Cpp/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/ashishzore98/Cpp/tree/master/0973-k-closest-points-to-origin) |
@@ -123,6 +126,7 @@
 | [0355-design-twitter](https://github.com/ashishzore98/Cpp/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/ashishzore98/Cpp/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/ashishzore98/Cpp/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0767-reorganize-string](https://github.com/ashishzore98/Cpp/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/ashishzore98/Cpp/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ashishzore98/Cpp/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
@@ -135,6 +139,7 @@
 | [0169-majority-element](https://github.com/ashishzore98/Cpp/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ashishzore98/Cpp/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/ashishzore98/Cpp/tree/master/0767-reorganize-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -181,6 +186,7 @@
 | [0011-container-with-most-water](https://github.com/ashishzore98/Cpp/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/ashishzore98/Cpp/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/ashishzore98/Cpp/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/ashishzore98/Cpp/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/ashishzore98/Cpp/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
