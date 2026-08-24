@@ -15,6 +15,7 @@
 | [0036-valid-sudoku](https://github.com/ashishzore98/Cpp/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ashishzore98/Cpp/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/ashishzore98/Cpp/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/ashishzore98/Cpp/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ashishzore98/Cpp/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/ashishzore98/Cpp/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ashishzore98/Cpp/tree/master/0075-sort-colors) |
@@ -254,6 +255,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashishzore98/Cpp/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ashishzore98/Cpp/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/ashishzore98/Cpp/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ashishzore98/Cpp/tree/master/0078-subsets) |
 ## Math
 |  |
