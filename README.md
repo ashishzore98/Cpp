@@ -20,6 +20,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ashishzore98/Cpp/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ashishzore98/Cpp/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ashishzore98/Cpp/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ashishzore98/Cpp/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashishzore98/Cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashishzore98/Cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishzore98/Cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@
 | [0022-generate-parentheses](https://github.com/ashishzore98/Cpp/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ashishzore98/Cpp/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ashishzore98/Cpp/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ashishzore98/Cpp/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ashishzore98/Cpp/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ashishzore98/Cpp/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/ashishzore98/Cpp/tree/master/0402-remove-k-digits) |
@@ -164,6 +166,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/ashishzore98/Cpp/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/ashishzore98/Cpp/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ashishzore98/Cpp/tree/master/0079-word-search) |
 ## Union-Find
 |  |
 | ------- |
@@ -257,6 +260,7 @@
 | [0039-combination-sum](https://github.com/ashishzore98/Cpp/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ashishzore98/Cpp/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ashishzore98/Cpp/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ashishzore98/Cpp/tree/master/0079-word-search) |
 ## Math
 |  |
 | ------- |
@@ -366,6 +370,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ashishzore98/Cpp/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/ashishzore98/Cpp/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ashishzore98/Cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashishzore98/Cpp/tree/master/0124-binary-tree-maximum-path-sum) |
