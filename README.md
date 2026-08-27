@@ -23,6 +23,7 @@
 | [0078-subsets](https://github.com/ashishzore98/Cpp/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ashishzore98/Cpp/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ashishzore98/Cpp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/ashishzore98/Cpp/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashishzore98/Cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishzore98/Cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ashishzore98/Cpp/tree/master/0128-longest-consecutive-sequence) |
@@ -263,6 +264,7 @@
 | [0051-n-queens](https://github.com/ashishzore98/Cpp/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ashishzore98/Cpp/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ashishzore98/Cpp/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/ashishzore98/Cpp/tree/master/0090-subsets-ii) |
 ## Math
 |  |
 | ------- |
@@ -420,6 +422,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ashishzore98/Cpp/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/ashishzore98/Cpp/tree/master/0090-subsets-ii) |
 ## Algorithm X
 |  |
 | ------- |
