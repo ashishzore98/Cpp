@@ -91,6 +91,7 @@
 | [0076-minimum-window-substring](https://github.com/ashishzore98/Cpp/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ashishzore98/Cpp/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ashishzore98/Cpp/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/ashishzore98/Cpp/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/ashishzore98/Cpp/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/ashishzore98/Cpp/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashishzore98/Cpp/tree/master/0424-longest-repeating-character-replacement) |
@@ -207,6 +208,7 @@
 | [0042-trapping-rain-water](https://github.com/ashishzore98/Cpp/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishzore98/Cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashishzore98/Cpp/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/ashishzore98/Cpp/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
@@ -267,6 +269,7 @@
 | [0078-subsets](https://github.com/ashishzore98/Cpp/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ashishzore98/Cpp/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ashishzore98/Cpp/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ashishzore98/Cpp/tree/master/0131-palindrome-partitioning) |
 ## Math
 |  |
 | ------- |
