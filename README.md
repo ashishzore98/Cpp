@@ -45,6 +45,7 @@
 | [0480-sliding-window-median](https://github.com/ashishzore98/Cpp/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/ashishzore98/Cpp/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/ashishzore98/Cpp/tree/master/0621-task-scheduler) |
+| [0648-replace-words](https://github.com/ashishzore98/Cpp/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/ashishzore98/Cpp/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishzore98/Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/ashishzore98/Cpp/tree/master/0735-asteroid-collision) |
@@ -82,6 +83,7 @@
 | [0496-next-greater-element-i](https://github.com/ashishzore98/Cpp/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/ashishzore98/Cpp/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ashishzore98/Cpp/tree/master/0621-task-scheduler) |
+| [0648-replace-words](https://github.com/ashishzore98/Cpp/tree/master/0648-replace-words) |
 | [0767-reorganize-string](https://github.com/ashishzore98/Cpp/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/ashishzore98/Cpp/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/ashishzore98/Cpp/tree/master/0981-time-based-key-value-store) |
@@ -105,6 +107,7 @@
 | [0402-remove-k-digits](https://github.com/ashishzore98/Cpp/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashishzore98/Cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ashishzore98/Cpp/tree/master/0567-permutation-in-string) |
+| [0648-replace-words](https://github.com/ashishzore98/Cpp/tree/master/0648-replace-words) |
 | [0767-reorganize-string](https://github.com/ashishzore98/Cpp/tree/master/0767-reorganize-string) |
 | [0981-time-based-key-value-store](https://github.com/ashishzore98/Cpp/tree/master/0981-time-based-key-value-store) |
 ## Sorting
@@ -454,4 +457,5 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ashishzore98/Cpp/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ashishzore98/Cpp/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/ashishzore98/Cpp/tree/master/0212-word-search-ii) |
+| [0648-replace-words](https://github.com/ashishzore98/Cpp/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
