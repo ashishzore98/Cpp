@@ -58,6 +58,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ashishzore98/Cpp/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ashishzore98/Cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/ashishzore98/Cpp/tree/master/1046-last-stone-weight) |
+| [2707-extra-characters-in-a-string](https://github.com/ashishzore98/Cpp/tree/master/2707-extra-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0767-reorganize-string](https://github.com/ashishzore98/Cpp/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/ashishzore98/Cpp/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/ashishzore98/Cpp/tree/master/0981-time-based-key-value-store) |
+| [2707-extra-characters-in-a-string](https://github.com/ashishzore98/Cpp/tree/master/2707-extra-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [0648-replace-words](https://github.com/ashishzore98/Cpp/tree/master/0648-replace-words) |
 | [0767-reorganize-string](https://github.com/ashishzore98/Cpp/tree/master/0767-reorganize-string) |
 | [0981-time-based-key-value-store](https://github.com/ashishzore98/Cpp/tree/master/0981-time-based-key-value-store) |
+| [2707-extra-characters-in-a-string](https://github.com/ashishzore98/Cpp/tree/master/2707-extra-characters-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -222,6 +225,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishzore98/Cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashishzore98/Cpp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ashishzore98/Cpp/tree/master/0131-palindrome-partitioning) |
+| [2707-extra-characters-in-a-string](https://github.com/ashishzore98/Cpp/tree/master/2707-extra-characters-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -458,4 +462,5 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/ashishzore98/Cpp/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/ashishzore98/Cpp/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/ashishzore98/Cpp/tree/master/0648-replace-words) |
+| [2707-extra-characters-in-a-string](https://github.com/ashishzore98/Cpp/tree/master/2707-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
