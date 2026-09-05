@@ -58,6 +58,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/ashishzore98/Cpp/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ashishzore98/Cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/ashishzore98/Cpp/tree/master/1046-last-stone-weight) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/ashishzore98/Cpp/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2707-extra-characters-in-a-string](https://github.com/ashishzore98/Cpp/tree/master/2707-extra-characters-in-a-string) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@
 | [0648-replace-words](https://github.com/ashishzore98/Cpp/tree/master/0648-replace-words) |
 | [0767-reorganize-string](https://github.com/ashishzore98/Cpp/tree/master/0767-reorganize-string) |
 | [0981-time-based-key-value-store](https://github.com/ashishzore98/Cpp/tree/master/0981-time-based-key-value-store) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/ashishzore98/Cpp/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2707-extra-characters-in-a-string](https://github.com/ashishzore98/Cpp/tree/master/2707-extra-characters-in-a-string) |
 ## Sorting
 |  |
@@ -167,6 +169,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ashishzore98/Cpp/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ashishzore98/Cpp/tree/master/0767-reorganize-string) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/ashishzore98/Cpp/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Quickselect
 |  |
 | ------- |
@@ -462,5 +465,6 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/ashishzore98/Cpp/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/ashishzore98/Cpp/tree/master/0212-word-search-ii) |
 | [0648-replace-words](https://github.com/ashishzore98/Cpp/tree/master/0648-replace-words) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/ashishzore98/Cpp/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2707-extra-characters-in-a-string](https://github.com/ashishzore98/Cpp/tree/master/2707-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
