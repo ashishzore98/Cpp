@@ -41,6 +41,7 @@
 | [0238-product-of-array-except-self](https://github.com/ashishzore98/Cpp/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ashishzore98/Cpp/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ashishzore98/Cpp/tree/master/0283-move-zeroes) |
+| [0336-palindrome-pairs](https://github.com/ashishzore98/Cpp/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
 | [0480-sliding-window-median](https://github.com/ashishzore98/Cpp/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/ashishzore98/Cpp/tree/master/0496-next-greater-element-i) |
@@ -78,6 +79,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ashishzore98/Cpp/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ashishzore98/Cpp/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ashishzore98/Cpp/tree/master/0242-valid-anagram) |
+| [0336-palindrome-pairs](https://github.com/ashishzore98/Cpp/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/ashishzore98/Cpp/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashishzore98/Cpp/tree/master/0424-longest-repeating-character-replacement) |
@@ -107,6 +109,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/ashishzore98/Cpp/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/ashishzore98/Cpp/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/ashishzore98/Cpp/tree/master/0242-valid-anagram) |
+| [0336-palindrome-pairs](https://github.com/ashishzore98/Cpp/tree/master/0336-palindrome-pairs) |
 | [0402-remove-k-digits](https://github.com/ashishzore98/Cpp/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/ashishzore98/Cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ashishzore98/Cpp/tree/master/0567-permutation-in-string) |
@@ -464,7 +467,12 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ashishzore98/Cpp/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ashishzore98/Cpp/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/ashishzore98/Cpp/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/ashishzore98/Cpp/tree/master/0336-palindrome-pairs) |
 | [0648-replace-words](https://github.com/ashishzore98/Cpp/tree/master/0648-replace-words) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/ashishzore98/Cpp/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2707-extra-characters-in-a-string](https://github.com/ashishzore98/Cpp/tree/master/2707-extra-characters-in-a-string) |
+## Hash Function
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/ashishzore98/Cpp/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
