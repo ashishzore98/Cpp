@@ -59,6 +59,7 @@
 | [0881-boats-to-save-people](https://github.com/ashishzore98/Cpp/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/ashishzore98/Cpp/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/ashishzore98/Cpp/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/ashishzore98/Cpp/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/ashishzore98/Cpp/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ashishzore98/Cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/ashishzore98/Cpp/tree/master/1046-last-stone-weight) |
@@ -206,6 +207,7 @@
 | [0212-word-search-ii](https://github.com/ashishzore98/Cpp/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashishzore98/Cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/ashishzore98/Cpp/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/ashishzore98/Cpp/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -412,6 +414,7 @@
 | [0226-invert-binary-tree](https://github.com/ashishzore98/Cpp/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashishzore98/Cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/ashishzore98/Cpp/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/ashishzore98/Cpp/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
