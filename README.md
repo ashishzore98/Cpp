@@ -49,6 +49,7 @@
 | [0496-next-greater-element-i](https://github.com/ashishzore98/Cpp/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/ashishzore98/Cpp/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/ashishzore98/Cpp/tree/master/0648-replace-words) |
+| [0695-max-area-of-island](https://github.com/ashishzore98/Cpp/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ashishzore98/Cpp/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishzore98/Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/ashishzore98/Cpp/tree/master/0735-asteroid-collision) |
@@ -204,11 +205,13 @@
 | [0200-number-of-islands](https://github.com/ashishzore98/Cpp/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/ashishzore98/Cpp/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashishzore98/Cpp/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/ashishzore98/Cpp/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ashishzore98/Cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ashishzore98/Cpp/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ashishzore98/Cpp/tree/master/0695-max-area-of-island) |
 ## Two Pointers
 |  |
 | ------- |
@@ -408,6 +411,7 @@
 | [0207-course-schedule](https://github.com/ashishzore98/Cpp/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ashishzore98/Cpp/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashishzore98/Cpp/tree/master/0417-pacific-atlantic-water-flow) |
+| [0695-max-area-of-island](https://github.com/ashishzore98/Cpp/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -437,6 +441,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ashishzore98/Cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashishzore98/Cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/ashishzore98/Cpp/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/ashishzore98/Cpp/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
