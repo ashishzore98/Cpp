@@ -43,6 +43,7 @@
 | [0238-product-of-array-except-self](https://github.com/ashishzore98/Cpp/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ashishzore98/Cpp/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ashishzore98/Cpp/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/ashishzore98/Cpp/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/ashishzore98/Cpp/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashishzore98/Cpp/tree/master/0417-pacific-atlantic-water-flow) |
@@ -252,6 +253,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashishzore98/Cpp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ashishzore98/Cpp/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/ashishzore98/Cpp/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/ashishzore98/Cpp/tree/master/0322-coin-change) |
 | [2707-extra-characters-in-a-string](https://github.com/ashishzore98/Cpp/tree/master/2707-extra-characters-in-a-string) |
 ## Stack
 |  |
@@ -418,6 +420,7 @@
 | [0207-course-schedule](https://github.com/ashishzore98/Cpp/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ashishzore98/Cpp/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ashishzore98/Cpp/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/ashishzore98/Cpp/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashishzore98/Cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/ashishzore98/Cpp/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ashishzore98/Cpp/tree/master/0695-max-area-of-island) |
@@ -539,4 +542,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashishzore98/Cpp/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ashishzore98/Cpp/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ashishzore98/Cpp/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
