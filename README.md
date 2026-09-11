@@ -246,6 +246,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ashishzore98/Cpp/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ashishzore98/Cpp/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/ashishzore98/Cpp/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishzore98/Cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashishzore98/Cpp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ashishzore98/Cpp/tree/master/0131-palindrome-partitioning) |
@@ -320,6 +321,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ashishzore98/Cpp/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/ashishzore98/Cpp/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishzore98/Cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/ashishzore98/Cpp/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
@@ -531,4 +533,8 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/ashishzore98/Cpp/tree/master/0127-word-ladder) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ashishzore98/Cpp/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
