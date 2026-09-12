@@ -43,6 +43,7 @@
 | [0238-product-of-array-except-self](https://github.com/ashishzore98/Cpp/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/ashishzore98/Cpp/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ashishzore98/Cpp/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/ashishzore98/Cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ashishzore98/Cpp/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/ashishzore98/Cpp/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
@@ -253,6 +254,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashishzore98/Cpp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ashishzore98/Cpp/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/ashishzore98/Cpp/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/ashishzore98/Cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ashishzore98/Cpp/tree/master/0322-coin-change) |
 | [2707-extra-characters-in-a-string](https://github.com/ashishzore98/Cpp/tree/master/2707-extra-characters-in-a-string) |
 ## Stack
@@ -289,6 +291,7 @@
 | [0162-find-peak-element](https://github.com/ashishzore98/Cpp/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishzore98/Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashishzore98/Cpp/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/ashishzore98/Cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/ashishzore98/Cpp/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/ashishzore98/Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/ashishzore98/Cpp/tree/master/0875-koko-eating-bananas) |
@@ -550,4 +553,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ashishzore98/Cpp/tree/master/0322-coin-change) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/ashishzore98/Cpp/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
