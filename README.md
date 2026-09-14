@@ -31,6 +31,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ashishzore98/Cpp/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/ashishzore98/Cpp/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ashishzore98/Cpp/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/ashishzore98/Cpp/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ashishzore98/Cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ashishzore98/Cpp/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashishzore98/Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -264,6 +265,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ashishzore98/Cpp/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ashishzore98/Cpp/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ashishzore98/Cpp/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/ashishzore98/Cpp/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ashishzore98/Cpp/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ashishzore98/Cpp/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishzore98/Cpp/tree/master/0300-longest-increasing-subsequence) |
