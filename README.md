@@ -49,6 +49,7 @@
 | [0322-coin-change](https://github.com/ashishzore98/Cpp/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/ashishzore98/Cpp/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/ashishzore98/Cpp/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/ashishzore98/Cpp/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashishzore98/Cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0480-sliding-window-median](https://github.com/ashishzore98/Cpp/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/ashishzore98/Cpp/tree/master/0496-next-greater-element-i) |
@@ -267,6 +268,7 @@
 | [0213-house-robber-ii](https://github.com/ashishzore98/Cpp/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ashishzore98/Cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ashishzore98/Cpp/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/ashishzore98/Cpp/tree/master/0416-partition-equal-subset-sum) |
 | [2707-extra-characters-in-a-string](https://github.com/ashishzore98/Cpp/tree/master/2707-extra-characters-in-a-string) |
 ## Stack
 |  |
@@ -562,6 +564,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ashishzore98/Cpp/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/ashishzore98/Cpp/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -578,4 +581,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ashishzore98/Cpp/tree/master/0005-longest-palindromic-substring) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ashishzore98/Cpp/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
