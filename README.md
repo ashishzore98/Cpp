@@ -135,6 +135,7 @@
 | [0648-replace-words](https://github.com/ashishzore98/Cpp/tree/master/0648-replace-words) |
 | [0767-reorganize-string](https://github.com/ashishzore98/Cpp/tree/master/0767-reorganize-string) |
 | [0981-time-based-key-value-store](https://github.com/ashishzore98/Cpp/tree/master/0981-time-based-key-value-store) |
+| [1143-longest-common-subsequence](https://github.com/ashishzore98/Cpp/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/ashishzore98/Cpp/tree/master/1268-search-suggestions-system) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/ashishzore98/Cpp/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2707-extra-characters-in-a-string](https://github.com/ashishzore98/Cpp/tree/master/2707-extra-characters-in-a-string) |
@@ -272,6 +273,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ashishzore98/Cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ashishzore98/Cpp/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishzore98/Cpp/tree/master/0416-partition-equal-subset-sum) |
+| [1143-longest-common-subsequence](https://github.com/ashishzore98/Cpp/tree/master/1143-longest-common-subsequence) |
 | [2707-extra-characters-in-a-string](https://github.com/ashishzore98/Cpp/tree/master/2707-extra-characters-in-a-string) |
 ## Stack
 |  |
@@ -593,4 +595,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ashishzore98/Cpp/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/ashishzore98/Cpp/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
