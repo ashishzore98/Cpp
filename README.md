@@ -55,6 +55,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ashishzore98/Cpp/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ashishzore98/Cpp/tree/master/0417-pacific-atlantic-water-flow) |
 | [0480-sliding-window-median](https://github.com/ashishzore98/Cpp/tree/master/0480-sliding-window-median) |
+| [0494-target-sum](https://github.com/ashishzore98/Cpp/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ashishzore98/Cpp/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/ashishzore98/Cpp/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/ashishzore98/Cpp/tree/master/0648-replace-words) |
@@ -281,6 +282,7 @@
 | [0312-burst-balloons](https://github.com/ashishzore98/Cpp/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/ashishzore98/Cpp/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishzore98/Cpp/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ashishzore98/Cpp/tree/master/0494-target-sum) |
 | [1143-longest-common-subsequence](https://github.com/ashishzore98/Cpp/tree/master/1143-longest-common-subsequence) |
 | [2707-extra-characters-in-a-string](https://github.com/ashishzore98/Cpp/tree/master/2707-extra-characters-in-a-string) |
 ## Stack
@@ -350,6 +352,7 @@
 | [0090-subsets-ii](https://github.com/ashishzore98/Cpp/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ashishzore98/Cpp/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/ashishzore98/Cpp/tree/master/0212-word-search-ii) |
+| [0494-target-sum](https://github.com/ashishzore98/Cpp/tree/master/0494-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -580,6 +583,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/ashishzore98/Cpp/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ashishzore98/Cpp/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ashishzore98/Cpp/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -600,6 +604,7 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ashishzore98/Cpp/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ashishzore98/Cpp/tree/master/0494-target-sum) |
 ## Combinatorics
 |  |
 | ------- |
