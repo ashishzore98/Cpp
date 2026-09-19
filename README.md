@@ -109,6 +109,7 @@
 | [0567-permutation-in-string](https://github.com/ashishzore98/Cpp/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ashishzore98/Cpp/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/ashishzore98/Cpp/tree/master/0648-replace-words) |
+| [0763-partition-labels](https://github.com/ashishzore98/Cpp/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ashishzore98/Cpp/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/ashishzore98/Cpp/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/ashishzore98/Cpp/tree/master/0981-time-based-key-value-store) |
@@ -143,6 +144,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/ashishzore98/Cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ashishzore98/Cpp/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/ashishzore98/Cpp/tree/master/0648-replace-words) |
+| [0763-partition-labels](https://github.com/ashishzore98/Cpp/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ashishzore98/Cpp/tree/master/0767-reorganize-string) |
 | [0981-time-based-key-value-store](https://github.com/ashishzore98/Cpp/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/ashishzore98/Cpp/tree/master/1143-longest-common-subsequence) |
@@ -255,6 +257,7 @@
 | [0283-move-zeroes](https://github.com/ashishzore98/Cpp/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/ashishzore98/Cpp/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/ashishzore98/Cpp/tree/master/0567-permutation-in-string) |
+| [0763-partition-labels](https://github.com/ashishzore98/Cpp/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/ashishzore98/Cpp/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -265,6 +268,7 @@
 | [0134-gas-station](https://github.com/ashishzore98/Cpp/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/ashishzore98/Cpp/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/ashishzore98/Cpp/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/ashishzore98/Cpp/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ashishzore98/Cpp/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/ashishzore98/Cpp/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
